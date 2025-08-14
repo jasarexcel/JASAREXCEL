@@ -1,4 +1,4 @@
-## Hi there 👋 Aqui aprenderas de forma facil 
+## Hi there 👋 Aqui aprenderas de forma fácil 
 
 <!--
 **jasarexcel/JASAREXCEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
